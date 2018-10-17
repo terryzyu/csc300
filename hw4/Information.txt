@@ -1,0 +1,1 @@
+This assignment seems to introduce/teach recursion and how to manipulate arrays. 

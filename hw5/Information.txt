@@ -1,0 +1,1 @@
+This assignment appears to introduce the Linked List data structure and data manipulation with it. This does not use the built in array.

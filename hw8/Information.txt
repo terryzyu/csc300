@@ -1,0 +1,1 @@
+This assignment teaches efficiency and timing. Such as testing the amount of time it takes for bubble and insertion sort to complete.

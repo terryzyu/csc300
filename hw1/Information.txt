@@ -1,0 +1,4 @@
+This assignment focused on understanding Java and its (new) syntax.
+
+First few weeks involved learning basics of Java and getting more familiar with the environment/new language.
+Most students came from an introductory programming course involving Python, C++, or Java. 
