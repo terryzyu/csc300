@@ -6,6 +6,6 @@ This course contains code from Algorithms, 4th Edition by Robert Sedgewick and K
 
 YOU MAY NEED TO DOWNLOAD CERTAIN JARS FROM THE WEBSITE IF YOU WANT TO RUN THE CODE PROPERLY. This is not a complete upload of the workspace; this is just the individual code files. 
 
-You do not see grades in this repo because the instructor removed the course before I learned git and could record each assignment.
+You do not see individual homework grades in this repo because the instructor removed the course before I learned git and could record each assignment.
 
 Overall Grade: A-
